@@ -48,8 +48,8 @@
       "id": "1770289195994-3fefd6a2b7db78",
       "type": "rect",
       "attrs": {
-        "x": 250,
-        "y": 150,
+        "x": 682,
+        "y": 165,
         "width": 200,
         "height": 150,
         "fill": "#f3f4f6",
@@ -89,5 +89,5 @@
     "showInAddElementPanel": false
   },
   "boardName": "login",
-  "lastSaved": "2026-02-05T10:59:59.698Z"
+  "lastSaved": "2026-02-05T11:00:35.241Z"
 }
