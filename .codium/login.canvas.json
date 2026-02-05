@@ -1,21 +1,6 @@
 {
   "shapes": [
     {
-      "id": "1770288313201-f7409111846a38",
-      "type": "rect",
-      "attrs": {
-        "x": 316,
-        "y": 367,
-        "width": 200,
-        "height": 100,
-        "fill": "#e70d0d",
-        "stroke": "#e5e7eb",
-        "strokeWidth": 1,
-        "cornerRadius": 8,
-        "draggable": true
-      }
-    },
-    {
       "id": "1770288321385-fd89bbd7e04198",
       "type": "text",
       "subtype": "h1",
@@ -200,5 +185,5 @@
     "showInAddElementPanel": false
   },
   "boardName": "login",
-  "lastSaved": "2026-02-05T11:08:56.726Z"
+  "lastSaved": "2026-02-05T12:21:47.080Z"
 }
