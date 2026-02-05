@@ -1,0 +1,114 @@
+
+/* CSS Reset - ensures consistent positioning across all browsers */
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* COMMENTED OUT - viewport units prevent browser zoom from working properly
+html, html body, html body #root {
+  width: 100vw;
+  height: 100vh;
+  max-width: 100vw;
+  max-height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+*/
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar,
+#root::-webkit-scrollbar {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f5f5;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Override any global img rules that might affect sizing */
+.page-container img {
+  max-width: none;
+  max-height: none;
+  width: auto;
+  height: auto;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+input, textarea, select {
+  outline: none;
+  font-family: inherit;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+
+.page-container {
+  position: relative;
+  width: 1920px;
+  height: 1009px;
+  min-width: 1920px;
+  min-height: 1009px;
+  max-width: 1920px;
+  max-height: 1009px;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  overflow: hidden;
+  flex-shrink: 0;
+  box-sizing: border-box;
+}
+
+.el-409111846a38 {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  width: 200px;
+  height: 100px;
+  background-color: #e70d0d;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  margin: 0px 0px 0px 0px;
+}
+
+.el-89bbd7e04198 {
+  position: absolute;
+  left: 93px;
+  top: 82px;
+  margin: 0px 0px 0px 0px;
+  font-size: 32px;
+  font-weight: bold;
+  color: #1a1a2e;
+}

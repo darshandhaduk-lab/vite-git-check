@@ -1,0 +1,59 @@
+{
+  "shapes": [
+    {
+      "id": "1770288313201-f7409111846a38",
+      "type": "rect",
+      "attrs": {
+        "x": 250,
+        "y": 150,
+        "width": 200,
+        "height": 100,
+        "fill": "#e70d0d",
+        "stroke": "#e5e7eb",
+        "strokeWidth": 1,
+        "cornerRadius": 8,
+        "draggable": true
+      }
+    },
+    {
+      "id": "1770288321385-fd89bbd7e04198",
+      "type": "text",
+      "subtype": "h1",
+      "attrs": {
+        "x": 293,
+        "y": 182,
+        "text": "Login",
+        "fontSize": 32,
+        "fontStyle": "bold",
+        "fill": "#1a1a2e",
+        "draggable": true
+      }
+    }
+  ],
+  "frameConfig": {
+    "x": 200,
+    "y": 100,
+    "width": 1920,
+    "height": 1009,
+    "backgroundColor": null,
+    "margins": {
+      "top": 45,
+      "bottom": 45,
+      "left": 35,
+      "right": 35
+    },
+    "alignment": {
+      "top": "auto",
+      "right": "auto",
+      "bottom": "auto",
+      "left": "auto"
+    },
+    "contentAlignment": {
+      "horizontal": "center",
+      "vertical": "center"
+    },
+    "showInAddElementPanel": false
+  },
+  "boardName": "login",
+  "lastSaved": "2026-02-05T10:45:37.396Z"
+}
