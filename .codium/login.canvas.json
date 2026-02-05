@@ -28,6 +28,21 @@
         "fill": "#1a1a2e",
         "draggable": true
       }
+    },
+    {
+      "id": "1770289095579-6555f601c4222",
+      "type": "text",
+      "subtype": "a",
+      "attrs": {
+        "x": 555,
+        "y": 192,
+        "text": "Link Text",
+        "fontSize": 16,
+        "fill": "#2563eb",
+        "textDecoration": "underline",
+        "draggable": true,
+        "href": "#"
+      }
     }
   ],
   "frameConfig": {
@@ -55,5 +70,5 @@
     "showInAddElementPanel": false
   },
   "boardName": "login",
-  "lastSaved": "2026-02-05T10:45:37.396Z"
+  "lastSaved": "2026-02-05T10:58:18.700Z"
 }
