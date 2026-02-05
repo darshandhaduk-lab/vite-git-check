@@ -93,8 +93,8 @@ a {
 
 .el-409111846a38 {
   position: absolute;
-  left: 50px;
-  top: 50px;
+  left: 116px;
+  top: 267px;
   width: 200px;
   height: 100px;
   background-color: #e70d0d;
@@ -121,4 +121,18 @@ a {
   font-size: 16px;
   color: #2563eb;
   text-decoration: underline;
+}
+
+.el-efd6a2b7db78 {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  width: 200px;
+  height: 150px;
+  max-width: none;
+  max-height: none;
+  object-fit: cover;
+  border-radius: 4px;
+  margin: 0;
+  padding: 0;
 }
