@@ -62,6 +62,34 @@
         "mediaFileName": "neon-merry-christmas-sign-on-a-christmas-tree-free-photo.jpg",
         "mediaRelativePath": "src/assets/images/neon-merry-christmas-sign-on-a-christmas-tree-free-photo.jpg"
       }
+    },
+    {
+      "id": "1770289257482-d8c7682470a1f",
+      "type": "semantic",
+      "subtype": "ul",
+      "attrs": {
+        "x": 250,
+        "y": 150,
+        "width": 200,
+        "height": 100,
+        "draggable": true,
+        "fontSize": 14,
+        "fill": "#1a1a2e",
+        "items": [
+          {
+            "id": "1770289257482-da18532e2ae898",
+            "text": "List item 1"
+          },
+          {
+            "id": "1770289257482-2a3e0051c274",
+            "text": "List item 2"
+          },
+          {
+            "id": "1770289257482-ae5ffcbcf3afb",
+            "text": "List item 3"
+          }
+        ]
+      }
     }
   ],
   "frameConfig": {
@@ -89,5 +117,5 @@
     "showInAddElementPanel": false
   },
   "boardName": "login",
-  "lastSaved": "2026-02-05T11:00:35.241Z"
+  "lastSaved": "2026-02-05T11:00:58.278Z"
 }
