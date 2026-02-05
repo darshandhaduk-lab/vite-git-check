@@ -68,8 +68,8 @@
       "type": "semantic",
       "subtype": "ul",
       "attrs": {
-        "x": 250,
-        "y": 150,
+        "x": 496,
+        "y": 244,
         "width": 200,
         "height": 100,
         "draggable": true,
@@ -118,6 +118,19 @@
           }
         ]
       }
+    },
+    {
+      "id": "1770289355905-79f573a63eb8b8",
+      "type": "text",
+      "subtype": "li",
+      "attrs": {
+        "x": 250,
+        "y": 150,
+        "text": "List item",
+        "fontSize": 14,
+        "fill": "#1a1a2e",
+        "draggable": true
+      }
     }
   ],
   "frameConfig": {
@@ -145,5 +158,5 @@
     "showInAddElementPanel": false
   },
   "boardName": "login",
-  "lastSaved": "2026-02-05T11:01:44.441Z"
+  "lastSaved": "2026-02-05T11:02:39.040Z"
 }

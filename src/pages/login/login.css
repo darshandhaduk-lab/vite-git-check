@@ -139,8 +139,8 @@ a {
 
 .el-8c7682470a1f {
   position: absolute;
-  left: 50px;
-  top: 50px;
+  left: 296px;
+  top: 144px;
   margin: 0;
   padding-left: 20px;
   font-size: 14px;
@@ -167,4 +167,13 @@ a {
 
 .el-907ac9d4e576 li {
   margin-bottom: 4px;
+}
+
+.el-f573a63eb8b8 {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  margin: 0px 0px 0px 0px;
+  font-size: 14px;
+  color: #1a1a2e;
 }
