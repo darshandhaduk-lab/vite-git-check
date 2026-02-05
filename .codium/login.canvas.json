@@ -20,8 +20,8 @@
       "type": "text",
       "subtype": "h1",
       "attrs": {
-        "x": 293,
-        "y": 182,
+        "x": 669,
+        "y": 362,
         "text": "Login",
         "fontSize": 32,
         "fontStyle": "bold",
@@ -70,5 +70,5 @@
     "showInAddElementPanel": false
   },
   "boardName": "login",
-  "lastSaved": "2026-02-05T10:58:18.700Z"
+  "lastSaved": "2026-02-05T10:59:25.457Z"
 }
