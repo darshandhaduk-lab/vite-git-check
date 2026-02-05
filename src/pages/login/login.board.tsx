@@ -13,6 +13,11 @@ const Login = () => {
         <li>List item 2</li>
         <li>List item 3</li>
       </ul>
+      <ol className="el-907ac9d4e576">
+        <li>List item 1</li>
+        <li>List item 2</li>
+        <li>List item 3</li>
+      </ol>
     </div>
   );
 };

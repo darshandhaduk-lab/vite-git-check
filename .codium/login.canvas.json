@@ -90,6 +90,34 @@
           }
         ]
       }
+    },
+    {
+      "id": "1770289289801-907ac9d4e576",
+      "type": "semantic",
+      "subtype": "ol",
+      "attrs": {
+        "x": 876,
+        "y": 307,
+        "width": 200,
+        "height": 100,
+        "draggable": true,
+        "fontSize": 14,
+        "fill": "#1a1a2e",
+        "items": [
+          {
+            "id": "1770289289801-ba3e61f2c52b88",
+            "text": "List item 1"
+          },
+          {
+            "id": "1770289289801-9d5f956e365088",
+            "text": "List item 2"
+          },
+          {
+            "id": "1770289289801-5e132af2e59bf",
+            "text": "List item 3"
+          }
+        ]
+      }
     }
   ],
   "frameConfig": {
@@ -117,5 +145,5 @@
     "showInAddElementPanel": false
   },
   "boardName": "login",
-  "lastSaved": "2026-02-05T11:00:58.278Z"
+  "lastSaved": "2026-02-05T11:01:44.441Z"
 }

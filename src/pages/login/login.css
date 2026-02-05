@@ -152,3 +152,19 @@ a {
 .el-8c7682470a1f li {
   margin-bottom: 4px;
 }
+
+.el-907ac9d4e576 {
+  position: absolute;
+  left: 676px;
+  top: 207px;
+  margin: 0;
+  padding-left: 24px;
+  font-size: 14px;
+  color: #1a1a2e;
+  line-height: 1.8;
+  list-style-type: decimal;
+}
+
+.el-907ac9d4e576 li {
+  margin-bottom: 4px;
+}
