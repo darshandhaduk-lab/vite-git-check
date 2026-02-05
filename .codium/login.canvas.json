@@ -131,6 +131,20 @@
         "fill": "#1a1a2e",
         "draggable": true
       }
+    },
+    {
+      "id": "1770289468443-51197610fd20d8",
+      "type": "text",
+      "subtype": "h3",
+      "attrs": {
+        "x": 301,
+        "y": 238,
+        "text": "Heading 3",
+        "fontSize": 24,
+        "fontStyle": "bold",
+        "fill": "#1a1a2e",
+        "draggable": true
+      }
     }
   ],
   "frameConfig": {
@@ -158,5 +172,5 @@
     "showInAddElementPanel": false
   },
   "boardName": "login",
-  "lastSaved": "2026-02-05T11:02:39.040Z"
+  "lastSaved": "2026-02-05T11:04:30.652Z"
 }
