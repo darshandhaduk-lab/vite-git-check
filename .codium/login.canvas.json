@@ -32,8 +32,8 @@
       "id": "1770298347338-4cd1727e94f48",
       "type": "text",
       "attrs": {
-        "x": 220,
-        "y": 216,
+        "x": 521,
+        "y": 317,
         "text": "asdfasdfasd",
         "fontSize": 18,
         "fontStyle": "bold",
@@ -70,6 +70,34 @@
         "cornerRadius": 8,
         "draggable": true
       }
+    },
+    {
+      "id": "1770368745308-237444e527a5",
+      "type": "semantic",
+      "subtype": "ul",
+      "attrs": {
+        "x": 818,
+        "y": 282,
+        "width": 200,
+        "height": 100,
+        "draggable": true,
+        "fontSize": 14,
+        "fill": "#1a1a2e",
+        "items": [
+          {
+            "id": "1770368745308-631412bdaa1c08",
+            "text": "List item 1"
+          },
+          {
+            "id": "1770368745308-1fc7f4bf4f0598",
+            "text": "List item 2"
+          },
+          {
+            "id": "1770368745308-fbc0b10e26d2c",
+            "text": "List item 3"
+          }
+        ]
+      }
     }
   ],
   "frameConfig": {
@@ -97,5 +125,5 @@
     "showInAddElementPanel": false
   },
   "boardName": "login",
-  "lastSaved": "2026-02-06T09:04:18.944Z"
+  "lastSaved": "2026-02-06T09:05:51.212Z"
 }
