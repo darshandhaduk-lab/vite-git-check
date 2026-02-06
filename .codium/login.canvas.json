@@ -18,8 +18,8 @@
       "id": "1770298347338-245ebf84bf6c88",
       "type": "text",
       "attrs": {
-        "x": 372,
-        "y": 184,
+        "x": 439,
+        "y": 380,
         "text": "Heading 3",
         "fontSize": 24,
         "fontStyle": "bold",
@@ -55,6 +55,21 @@
         "width": 1880,
         "draggable": true
       }
+    },
+    {
+      "id": "1770368656692-c09d13460aab5",
+      "type": "rect",
+      "attrs": {
+        "x": 552,
+        "y": 124,
+        "width": 200,
+        "height": 100,
+        "fill": "#ffffff",
+        "stroke": "#e5e7eb",
+        "strokeWidth": 1,
+        "cornerRadius": 8,
+        "draggable": true
+      }
     }
   ],
   "frameConfig": {
@@ -82,5 +97,5 @@
     "showInAddElementPanel": false
   },
   "boardName": "login",
-  "lastSaved": "2026-02-06T09:00:32.553Z"
+  "lastSaved": "2026-02-06T09:04:18.944Z"
 }

@@ -104,8 +104,8 @@ a {
 
 .el-5ebf84bf6c88 {
   position: absolute;
-  left: 172px;
-  top: 84px;
+  left: 239px;
+  top: 280px;
   width: 1880px;
   margin: 0px 0px 0px 0px;
   font-size: 24px;
@@ -133,4 +133,16 @@ a {
   font-size: 24px;
   font-weight: bold;
   color: #000000;
+}
+
+.el-09d13460aab5 {
+  position: absolute;
+  left: 352px;
+  top: 24px;
+  width: 200px;
+  height: 100px;
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  margin: 0px 0px 0px 0px;
 }
