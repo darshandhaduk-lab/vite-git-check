@@ -91,107 +91,46 @@ a {
   box-sizing: border-box;
 }
 
-.el-89bbd7e04198 {
+.el-7c58e7e14a8f {
   position: absolute;
-  left: 469px;
-  top: 262px;
+  left: 20px;
+  top: 20px;
+  width: 1880px;
   margin: 0px 0px 0px 0px;
   font-size: 32px;
   font-weight: bold;
-  color: #1a1a2e;
+  color: #000000;
 }
 
-.el-555f601c4222 {
+.el-5ebf84bf6c88 {
   position: absolute;
-  left: 355px;
-  top: 92px;
-  margin: 0px 0px 0px 0px;
-  font-size: 16px;
-  color: #2563eb;
-  text-decoration: underline;
-}
-
-.el-efd6a2b7db78 {
-  position: absolute;
-  left: 482px;
-  top: 65px;
-  width: 200px;
-  height: 150px;
-  max-width: none;
-  max-height: none;
-  object-fit: cover;
-  border-radius: 4px;
-  margin: 0;
-  padding: 0;
-}
-
-.el-8c7682470a1f {
-  position: absolute;
-  left: 296px;
-  top: 144px;
-  margin: 0;
-  padding-left: 20px;
-  font-size: 14px;
-  color: #1a1a2e;
-  line-height: 1.8;
-  list-style-type: disc;
-}
-
-.el-8c7682470a1f li {
-  margin-bottom: 4px;
-}
-
-.el-907ac9d4e576 {
-  position: absolute;
-  left: 676px;
-  top: 207px;
-  margin: 0;
-  padding-left: 24px;
-  font-size: 14px;
-  color: #1a1a2e;
-  line-height: 1.8;
-  list-style-type: decimal;
-}
-
-.el-907ac9d4e576 li {
-  margin-bottom: 4px;
-}
-
-.el-f573a63eb8b8 {
-  position: absolute;
-  left: 50px;
-  top: 50px;
-  margin: 0px 0px 0px 0px;
-  font-size: 14px;
-  color: #1a1a2e;
-}
-
-.el-197610fd20d8 {
-  position: absolute;
-  left: 101px;
-  top: 138px;
+  left: 172px;
+  top: 84px;
+  width: 1880px;
   margin: 0px 0px 0px 0px;
   font-size: 24px;
   font-weight: bold;
-  color: #1a1a2e;
+  color: #000000;
 }
 
-.el-fdc043b7e9c8 {
+.el-cd1727e94f48 {
   position: absolute;
-  left: 474px;
-  top: 452px;
+  left: 20px;
+  top: 116px;
+  width: 1880px;
   margin: 0px 0px 0px 0px;
   font-size: 18px;
   font-weight: bold;
-  color: #1a1a2e;
+  color: #000000;
 }
 
-.el-01f6e6d3478e {
+.el-7a3705e5913e {
   position: absolute;
-  left: 721px;
-  top: 82px;
+  left: 20px;
+  top: 154px;
+  width: 1880px;
   margin: 0px 0px 0px 0px;
   font-size: 24px;
   font-weight: bold;
-  color: #1a1a2e;
+  color: #000000;
 }
